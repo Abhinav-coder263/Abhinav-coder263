@@ -134,13 +134,12 @@ Full Stack Developer • MERN Stack • JavaScript Enthusiast
 
 # ⭐ Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🔥 Portfolio | Personal Portfolio Website |
-| 💬 Chat App | MERN Chat Application |
-| 🛒 Ecommerce | Full Stack Ecommerce Website |
-| 📚 Notes App | CRUD Notes Application |
-
+| Project | Description | Live Demo |
+|----------|-------------|-----------|
+| 🔥 Portfolio | Personal Portfolio Website | [Live Demo](https://abhinav-coder263.github.io/Portfolio/) |
+| 💬 Chat App | MERN Chat Application | [Live Demo](https://your-chat-app.vercel.app) |
+| 🛒 Ecommerce | Full Stack Ecommerce Website | [Live Demo](https://your-ecommerce.vercel.app) |
+| 📚 Notes App | CRUD Notes Application | [Live Demo](https://your-notes-app.vercel.app) |
 ---
 
 # 🌐 Connect
